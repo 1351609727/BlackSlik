@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{50E3C9B7-4EB2-6F5F-4C28-8F1E1BF4C5DD}</ProjectGuid>
+    <ProjectGuid>{7C39927F-2315-F5C9-1740-05E945399302}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -54,7 +54,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
-    <Compile Include="Assets\gril\CamerCapture.cs" />
+    <Compile Include="Assets\Resources\CamerCapture.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Haruka_AnimeStyleGirl\ToonURP\Runtime\Shaders\UniversalToonBodyDoubleShadeWithFeather.hlsl" />
